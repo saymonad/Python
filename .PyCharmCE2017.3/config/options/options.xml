@@ -19,6 +19,6 @@
     <property name="Copy.OpenInEditor" value="true" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="PLUGIN_FILTER" value="git&#10;VCS" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6449086" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.65143603" />
   </component>
 </application>
