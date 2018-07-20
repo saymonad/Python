@@ -23,6 +23,7 @@
     <location key="FileChooserDialogImpl.1920.0.1920.1080@120dpi" x="2609" y="239" />
     <location key="GitCloneDialog.1920.0.1920.1080@120dpi" x="2573" y="437" />
     <location key="ProcessPopupWindow.1920.0.1920.1080@120dpi" x="3340" y="854" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1920.1080@120dpi" x="761" y="172" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1891" height="215" />

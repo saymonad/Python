@@ -1,6 +1,7 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="CheckinProject@ChangesViewToolbar" count="1" />
       <entry action="Debug@NavBarToolbar" count="9" />
       <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="2" />
       <entry action="FileChooser.GotoHome@FileChooserDialog" count="2" />
