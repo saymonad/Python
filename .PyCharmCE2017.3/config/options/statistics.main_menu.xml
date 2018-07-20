@@ -1,0 +1,35 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; Default Settings..." count="2" />
+      <entry path="File -&gt; New Project..." count="12" />
+      <entry path="File -&gt; New Scratch File" count="1" />
+      <entry path="File -&gt; New..." count="52" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="2" />
+      <entry path="File -&gt; Open..." count="17" />
+      <entry path="File -&gt; Save As.." count="2" />
+      <entry path="File -&gt; Settings Repository…" count="1" />
+      <entry path="File -&gt; Settings..." count="20" />
+      <entry path="File -&gt; Synchronize" count="2" />
+      <entry path="Navigate -&gt; Super Method" count="1" />
+      <entry path="Run -&gt; Debug" count="2" />
+      <entry path="Run -&gt; Debug..." count="1" />
+      <entry path="Run -&gt; Run" count="3" />
+      <entry path="Run -&gt; Run..." count="6" />
+      <entry path="Tools -&gt; Analyze Stacktrace..." count="1" />
+      <entry path="Tools -&gt; Python Console..." count="1" />
+      <entry path="VCS -&gt; Commit" count="2" />
+      <entry path="View -&gt; Expression Type" count="1" />
+      <entry path="View -&gt; Parameter Info" count="1" />
+      <entry path="View -&gt; Quick Definition" count="2" />
+      <entry path="View -&gt; Tool Buttons" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Debug" count="3" />
+      <entry path="View -&gt; Tool Windows -&gt; Find" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Python Console" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Run" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Structure" count="1" />
+      <entry path="View -&gt; Toolbar" count="3" />
+    </counts>
+  </component>
+</application>

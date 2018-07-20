@@ -1,0 +1,37 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="567" y="231" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="963" y="439" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="546" y="275" />
+    <location key="#liczby.0.0.1920.1080@120dpi" x="813" y="64" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080@120dpi" x="831" y="292" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@120dpi" x="408" y="403" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="679" y="0" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="265" y="52" />
+    <location key="#gus_number.0.0.1920.1080@120dpi" x="213" y="74" />
+    <location key="#main.0.0.1920.1080@120dpi" x="669" y="59" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080@120dpi" x="427" y="172" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080@120dpi" x="2173" y="215" />
+    <location key="#Menus_and_Toolbars.0.0.1920.1080@120dpi" x="704" y="202" />
+    <location key="#Browse_JetBrains_Plugins_.1920.0.1920.1080@120dpi" x="2214" y="88" />
+    <location key="#HTTP_Proxy.1920.0.1920.1080@120dpi" x="2388" y="113" />
+    <location key="SettingsEditor.1920.0.1920.1080@120dpi" x="2118" y="7" />
+    <location key="#Menus_and_Toolbars.1920.0.1920.1080@120dpi" x="2624" y="251" />
+    <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.1920.0.1920.1080@120dpi" x="2677" y="240" />
+    <location key="CommitChangelistDialog2.1920.0.1920.1080@120dpi" x="2411" y="76" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1891" height="215" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1891" height="215" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1891" height="215" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1891" height="215" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1920" height="423" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1920" height="423" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1920" height="423" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1920" height="423" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1094" height="723" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080@120dpi" width="1276" height="777" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080@120dpi" width="968" height="215" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080@120dpi" width="968" height="215" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080@120dpi" width="968" height="215" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080@120dpi" width="968" height="215" />
+  </component>
+</application>
