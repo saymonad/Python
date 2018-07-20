@@ -14,7 +14,7 @@
       <entry action="ActivateStructureToolWindow" count="1" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="ChangesView.Refresh" count="1" />
-      <entry action="CheckinProject" count="13" />
+      <entry action="CheckinProject" count="14" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="ChooseRunConfiguration" count="7" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="2" />
@@ -26,7 +26,7 @@
       <entry action="Editor notification option" count="1" />
       <entry action="EditorBackSpace" count="1071" />
       <entry action="EditorChooseLookupItem" count="90" />
-      <entry action="EditorCopy" count="223" />
+      <entry action="EditorCopy" count="224" />
       <entry action="EditorCut" count="13" />
       <entry action="EditorDelete" count="324" />
       <entry action="EditorDeleteToWordStart" count="1" />
@@ -40,7 +40,7 @@
       <entry action="EditorLineEnd" count="56" />
       <entry action="EditorLineStart" count="7" />
       <entry action="EditorPageDown" count="3" />
-      <entry action="EditorPaste" count="229" />
+      <entry action="EditorPaste" count="230" />
       <entry action="EditorPreviousWord" count="5" />
       <entry action="EditorRight" count="368" />
       <entry action="EditorScrollDown" count="4" />
@@ -95,7 +95,7 @@
       <entry action="ToggleLineBreakpoint" count="22" />
       <entry action="Unscramble" count="1" />
       <entry action="Vcs.Push" count="3" />
-      <entry action="Vcs.QuickListPopupAction" count="6" />
+      <entry action="Vcs.QuickListPopupAction" count="7" />
       <entry action="ViewBreakpoints" count="3" />
       <entry action="ViewToolBar" count="3" />
       <entry action="ViewToolButtons" count="1" />
