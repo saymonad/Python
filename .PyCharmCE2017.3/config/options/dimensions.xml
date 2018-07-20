@@ -29,6 +29,8 @@
     <location key="Github.ShareDialog.0.0.1920.1080@120dpi" x="736" y="354" />
     <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1263" y="688" />
     <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="620" y="312" />
+    <location key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog.0.0.1920.1080@120dpi" x="839" y="424" />
+    <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.0.0.1920.1080@120dpi" x="757" y="191" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1891" height="215" />
