@@ -12,7 +12,7 @@
       <entry action="ActivateProjectToolWindow" count="2" />
       <entry action="ActivatePythonConsoleToolWindow" count="2" />
       <entry action="ActivateStructureToolWindow" count="1" />
-      <entry action="CheckinProject" count="2" />
+      <entry action="CheckinProject" count="3" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="ChooseRunConfiguration" count="7" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="2" />
@@ -22,7 +22,7 @@
       <entry action="Debug" count="11" />
       <entry action="DebugClass" count="4" />
       <entry action="Editor notification option" count="1" />
-      <entry action="EditorBackSpace" count="1052" />
+      <entry action="EditorBackSpace" count="1056" />
       <entry action="EditorChooseLookupItem" count="90" />
       <entry action="EditorCopy" count="222" />
       <entry action="EditorCut" count="13" />

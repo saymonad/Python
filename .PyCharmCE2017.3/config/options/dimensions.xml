@@ -18,7 +18,7 @@
     <location key="SettingsEditor.1920.0.1920.1080@120dpi" x="2118" y="7" />
     <location key="#Menus_and_Toolbars.1920.0.1920.1080@120dpi" x="2624" y="251" />
     <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.1920.0.1920.1080@120dpi" x="2677" y="240" />
-    <location key="CommitChangelistDialog2.1920.0.1920.1080@120dpi" x="2411" y="76" />
+    <location key="CommitChangelistDialog2.1920.0.1920.1080@120dpi" x="2369" y="50" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1891" height="215" />
@@ -33,5 +33,6 @@
     <size key="GridCell.Tab.0.center.1920.0.1920.1080@120dpi" width="968" height="215" />
     <size key="GridCell.Tab.0.right.1920.0.1920.1080@120dpi" width="968" height="215" />
     <size key="GridCell.Tab.0.bottom.1920.0.1920.1080@120dpi" width="968" height="215" />
+    <size key="CommitChangelistDialog2.1920.0.1920.1080@120dpi" width="1161" height="901" />
   </component>
 </application>
