@@ -4,6 +4,7 @@
       <entry action="Debug@NavBarToolbar" count="9" />
       <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="2" />
       <entry action="FileChooser.GotoHome@FileChooserDialog" count="2" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="3" />
       <entry action="HelpTopics@MainToolbar" count="1" />
       <entry action="OpenFile@MainToolbar" count="1" />
       <entry action="Rerun@DebuggerToolbar" count="2" />

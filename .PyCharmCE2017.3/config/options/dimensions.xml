@@ -21,6 +21,8 @@
     <location key="CommitChangelistDialog2.1920.0.1920.1080@120dpi" x="2369" y="50" />
     <location key="Vcs.Push.Dialog.1920.0.1920.1080@120dpi" x="2480" y="217" />
     <location key="FileChooserDialogImpl.1920.0.1920.1080@120dpi" x="2609" y="239" />
+    <location key="GitCloneDialog.1920.0.1920.1080@120dpi" x="2573" y="437" />
+    <location key="ProcessPopupWindow.1920.0.1920.1080@120dpi" x="3340" y="854" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1891" height="215" />
@@ -36,5 +38,7 @@
     <size key="GridCell.Tab.0.right.1920.0.1920.1080@120dpi" width="968" height="215" />
     <size key="GridCell.Tab.0.bottom.1920.0.1920.1080@120dpi" width="968" height="215" />
     <size key="CommitChangelistDialog2.1920.0.1920.1080@120dpi" width="1161" height="901" />
+    <size key="GitCloneDialog.1920.0.1920.1080@120dpi" width="614" height="287" />
+    <size key="ProcessPopupWindow.1920.0.1920.1080@120dpi" width="500" height="235" />
   </component>
 </application>

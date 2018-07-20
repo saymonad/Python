@@ -13,7 +13,7 @@
       <entry action="ActivatePythonConsoleToolWindow" count="2" />
       <entry action="ActivateStructureToolWindow" count="1" />
       <entry action="ChangesView.ApplyPatch" count="1" />
-      <entry action="CheckinProject" count="6" />
+      <entry action="CheckinProject" count="8" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="ChooseRunConfiguration" count="7" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="2" />
@@ -23,9 +23,9 @@
       <entry action="Debug" count="11" />
       <entry action="DebugClass" count="4" />
       <entry action="Editor notification option" count="1" />
-      <entry action="EditorBackSpace" count="1058" />
+      <entry action="EditorBackSpace" count="1065" />
       <entry action="EditorChooseLookupItem" count="90" />
-      <entry action="EditorCopy" count="222" />
+      <entry action="EditorCopy" count="223" />
       <entry action="EditorCut" count="13" />
       <entry action="EditorDelete" count="324" />
       <entry action="EditorDeleteToWordStart" count="1" />
@@ -39,7 +39,7 @@
       <entry action="EditorLineEnd" count="56" />
       <entry action="EditorLineStart" count="7" />
       <entry action="EditorPageDown" count="3" />
-      <entry action="EditorPaste" count="224" />
+      <entry action="EditorPaste" count="228" />
       <entry action="EditorPreviousWord" count="5" />
       <entry action="EditorRight" count="368" />
       <entry action="EditorScrollDown" count="4" />
@@ -50,6 +50,7 @@
       <entry action="ExpressionTypeInfo" count="1" />
       <entry action="FileChooser.GotoDesktop" count="2" />
       <entry action="FileChooser.GotoHome" count="2" />
+      <entry action="FileChooser.GotoProject" count="3" />
       <entry action="Find" count="3" />
       <entry action="GotoBookmark0" count="1" />
       <entry action="GotoBookmark9" count="1" />
@@ -84,7 +85,7 @@
       <entry action="SaveAs" count="2" />
       <entry action="SearchEverywhere" count="2" />
       <entry action="ShowIntentionActions" count="1" />
-      <entry action="ShowSettings" count="22" />
+      <entry action="ShowSettings" count="25" />
       <entry action="Stop" count="3" />
       <entry action="Synchronize" count="2" />
       <entry action="TemplateProjectProperties" count="2" />
