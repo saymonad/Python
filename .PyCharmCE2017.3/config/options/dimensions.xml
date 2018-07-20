@@ -26,6 +26,7 @@
     <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1920.1080@120dpi" x="761" y="172" />
     <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="491" y="27" />
     <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="560" y="168" />
+    <location key="Github.ShareDialog.0.0.1920.1080@120dpi" x="736" y="354" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1891" height="215" />

@@ -2,14 +2,14 @@
   <component name="MainMenuCollector">
     <counts>
       <entry path="File -&gt; Default Settings..." count="2" />
-      <entry path="File -&gt; New Project..." count="12" />
+      <entry path="File -&gt; New Project..." count="14" />
       <entry path="File -&gt; New Scratch File" count="1" />
       <entry path="File -&gt; New..." count="52" />
       <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="2" />
       <entry path="File -&gt; Open..." count="17" />
       <entry path="File -&gt; Save As.." count="2" />
       <entry path="File -&gt; Settings Repository…" count="1" />
-      <entry path="File -&gt; Settings..." count="24" />
+      <entry path="File -&gt; Settings..." count="28" />
       <entry path="File -&gt; Synchronize" count="2" />
       <entry path="Navigate -&gt; Super Method" count="1" />
       <entry path="Run -&gt; Debug" count="2" />
@@ -19,9 +19,11 @@
       <entry path="Tools -&gt; Analyze Stacktrace..." count="1" />
       <entry path="Tools -&gt; Python Console..." count="1" />
       <entry path="VCS -&gt; Apply Patch..." count="1" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Show Git Repository Log..." count="1" />
       <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="6" />
-      <entry path="VCS -&gt; Commit" count="6" />
+      <entry path="VCS -&gt; Commit" count="8" />
       <entry path="VCS -&gt; Git -&gt; Push..." count="3" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="2" />
       <entry path="VCS -&gt; Local History -&gt; Show History" count="1" />
       <entry path="VCS -&gt; VCS Operations Popup..." count="6" />
       <entry path="View -&gt; Expression Type" count="1" />

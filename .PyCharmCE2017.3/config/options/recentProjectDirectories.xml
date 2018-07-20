@@ -3,6 +3,8 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/PycharmProjects/number" />
+        <option value="$USER_HOME$/PycharmProjects/commits" />
+        <option value="$USER_HOME$/PycharmProjects/COMMIT" />
         <option value="$USER_HOME$/AppData/Local/Temp/main.py" />
         <option value="$USER_HOME$/PycharmProjects/error_handling" />
         <option value="$USER_HOME$/PycharmProjects/wro_map" />
@@ -46,6 +48,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/PycharmProjects/COMMIT">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4301.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532085651557" />
+              <option name="buildTimestamp" value="1515668453059" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/PycharmProjects/Codewors">
           <value>
             <RecentProjectMetaInfo>
@@ -65,6 +78,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1521495079801" />
               <option name="buildTimestamp" value="1515668401374" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/commits">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4301.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532089246058" />
+              <option name="buildTimestamp" value="1515668406680" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -118,8 +142,8 @@
               <option name="build" value="PC-173.4301.16" />
               <option name="productionCode" value="PC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1532084416416" />
-              <option name="buildTimestamp" value="1515668430121" />
+              <option name="projectOpenTimestamp" value="1532089750130" />
+              <option name="buildTimestamp" value="1515668406680" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
