@@ -14,7 +14,7 @@
       <entry action="ActivateStructureToolWindow" count="1" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="ChangesView.Refresh" count="1" />
-      <entry action="CheckinProject" count="10" />
+      <entry action="CheckinProject" count="11" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="ChooseRunConfiguration" count="7" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="2" />
@@ -92,8 +92,8 @@
       <entry action="TemplateProjectProperties" count="2" />
       <entry action="ToggleLineBreakpoint" count="22" />
       <entry action="Unscramble" count="1" />
-      <entry action="Vcs.Push" count="2" />
-      <entry action="Vcs.QuickListPopupAction" count="5" />
+      <entry action="Vcs.Push" count="3" />
+      <entry action="Vcs.QuickListPopupAction" count="6" />
       <entry action="ViewBreakpoints" count="3" />
       <entry action="ViewToolBar" count="3" />
       <entry action="ViewToolButtons" count="1" />
