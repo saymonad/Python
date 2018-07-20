@@ -13,7 +13,7 @@
       <entry action="ActivatePythonConsoleToolWindow" count="2" />
       <entry action="ActivateStructureToolWindow" count="1" />
       <entry action="ChangesView.ApplyPatch" count="1" />
-      <entry action="CheckinProject" count="8" />
+      <entry action="CheckinProject" count="9" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="ChooseRunConfiguration" count="7" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="2" />
@@ -92,7 +92,7 @@
       <entry action="ToggleLineBreakpoint" count="22" />
       <entry action="Unscramble" count="1" />
       <entry action="Vcs.Push" count="1" />
-      <entry action="Vcs.QuickListPopupAction" count="4" />
+      <entry action="Vcs.QuickListPopupAction" count="5" />
       <entry action="ViewBreakpoints" count="3" />
       <entry action="ViewToolBar" count="3" />
       <entry action="ViewToolButtons" count="1" />
