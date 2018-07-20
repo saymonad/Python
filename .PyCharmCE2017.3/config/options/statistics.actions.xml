@@ -12,7 +12,7 @@
       <entry action="ActivateProjectToolWindow" count="2" />
       <entry action="ActivatePythonConsoleToolWindow" count="2" />
       <entry action="ActivateStructureToolWindow" count="1" />
-      <entry action="CheckinProject" count="4" />
+      <entry action="CheckinProject" count="5" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="ChooseRunConfiguration" count="7" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="2" />
