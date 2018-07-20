@@ -12,7 +12,8 @@
       <entry action="ActivateProjectToolWindow" count="2" />
       <entry action="ActivatePythonConsoleToolWindow" count="2" />
       <entry action="ActivateStructureToolWindow" count="1" />
-      <entry action="CheckinProject" count="5" />
+      <entry action="ChangesView.ApplyPatch" count="1" />
+      <entry action="CheckinProject" count="6" />
       <entry action="ChooseDebugConfiguration" count="1" />
       <entry action="ChooseRunConfiguration" count="7" />
       <entry action="ConfigureCodeStyleOnSelectedFragment" count="2" />
@@ -22,7 +23,7 @@
       <entry action="Debug" count="11" />
       <entry action="DebugClass" count="4" />
       <entry action="Editor notification option" count="1" />
-      <entry action="EditorBackSpace" count="1057" />
+      <entry action="EditorBackSpace" count="1058" />
       <entry action="EditorChooseLookupItem" count="90" />
       <entry action="EditorCopy" count="222" />
       <entry action="EditorCut" count="13" />
@@ -61,6 +62,7 @@
       <entry action="Insert type assertion" count="1" />
       <entry action="Install package pypyodbc" count="1" />
       <entry action="Install package selenium" count="2" />
+      <entry action="LocalHistory.ShowHistory" count="1" />
       <entry action="MethodDown" count="18" />
       <entry action="MethodUp" count="5" />
       <entry action="NewDirectoryProject" count="12" />
@@ -82,12 +84,14 @@
       <entry action="SaveAs" count="2" />
       <entry action="SearchEverywhere" count="2" />
       <entry action="ShowIntentionActions" count="1" />
-      <entry action="ShowSettings" count="21" />
+      <entry action="ShowSettings" count="22" />
       <entry action="Stop" count="3" />
       <entry action="Synchronize" count="2" />
       <entry action="TemplateProjectProperties" count="2" />
       <entry action="ToggleLineBreakpoint" count="22" />
       <entry action="Unscramble" count="1" />
+      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.QuickListPopupAction" count="1" />
       <entry action="ViewBreakpoints" count="3" />
       <entry action="ViewToolBar" count="3" />
       <entry action="ViewToolButtons" count="1" />

@@ -19,6 +19,8 @@
     <location key="#Menus_and_Toolbars.1920.0.1920.1080@120dpi" x="2624" y="251" />
     <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.1920.0.1920.1080@120dpi" x="2677" y="240" />
     <location key="CommitChangelistDialog2.1920.0.1920.1080@120dpi" x="2369" y="50" />
+    <location key="Vcs.Push.Dialog.1920.0.1920.1080@120dpi" x="2480" y="217" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080@120dpi" x="2609" y="239" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1891" height="215" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1891" height="215" />
